@@ -13,10 +13,15 @@ product teams
  Your Tasks:
  Prepare SQL Queries for the Analytics TeamProvide the analytics team with ready-to-use SQL 
  queries for the following KPIs:
+ 
  • Highest daily return
+ 
  • Average monthly close
+ 
  • Monthly volatility trend
+ 
  • 5 lowest drawdown periods
+ 
  • Last 30-day average return
 
 
